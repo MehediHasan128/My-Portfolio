@@ -1,0 +1,84 @@
+*{
+    margin: 0px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 40px;
+    padding-bottom: 30px;
+}
+h3{
+    padding-bottom: 20px;
+    color: orangered;
+}
+span{
+    color: orangered;
+}
+p{
+    text-align: justify;
+    margin-bottom: 27px;
+}
+#container{
+    display: flex;
+    background-image: url(../Images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.contant{
+    width: 50%;
+    padding-left: 5%;
+    padding-top: 9%;
+}
+.contant img{
+    width: 70%;
+    padding-left: 10%;
+}
+.btn{
+    text-decoration: none;
+    background-color: orangered;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 600;
+}
+#dream-big{
+    display: flex;
+    margin-top: 20px;
+    background-image: url(../Images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.text{
+    width: 90%;
+}
+#container1{
+    display: flex;
+    margin-top: 5px;
+    background-image: url(../Images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+#experience{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.box{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 0px 25px;
+    border-left: 5px solid rgb(245, 99, 2);
+    outline: none;
+    box-shadow: 10px 10px 40px gray;
+}
+.box2{
+    border-left: 5px solid blue;
+}
+.box h1{
+    padding-top: 10px;
+}
+footer p{
+    text-align: center;
+    color: gray;
+    padding-top: 20px;
+}
+
